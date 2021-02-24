@@ -29,7 +29,7 @@
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700' rel='stylesheet' type='text/css'>
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="fLnkoPrHrdVyem/C998kielyS+YLgefnr97CvDsDEykPhJW6TRPCKgIkH5Np6+bnIJGHMiGxvi2k7hLFgK5+bA==" />
+<meta name="csrf-token" content="IcwVDHFCn0iFm4/BX54GKL4HTZ+uo76YXxSxqA/7Jbl3uw5i79nu6LlwI/0zckKdJ46vdSeJA7xaU6l8LJtclQ==" />
     
 
     <!-- Grid background: http://subtlepatterns.com/graphy/ -->
@@ -78,20 +78,20 @@
     </h3>
 
   </div>
-  <form id="login" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bPDuIO1sZ0Tm/K0K1UkhL4NoLXqYWcaUVlMon9XDfuAfzZ86WrgIu5ai3VtLfeNBSovhrrJpn15dY/jmbm4TpQ==" />
+  <form id="login" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3ANCrLg9iwLbrlpZdxnlzLRASZE0oFvAeCFH6A8rSyWKdFnCJqb6oudF9mUb9aF5Lcmre72K5uR9Zl88LEsyCQ==" />
   <p><label for="username">Username</label><i class="fa fa-question-circle fa-question-circle--blue user-name" title="Login using either your Username or Email Address"></i><input type="text" name="username" id="username" autofocus="autofocus" class="default" /></p>
   <p><label for="password">Password</label><br /><input type="password" name="password" id="password" /></p>
 
   <p><input type="hidden" name="client_id" id="client_id" value="A6th7HB-3EBoO7iOCiCLlA" /></p>
   <p><input type="hidden" name="redirect_uri" id="redirect_uri" value="https://ladsweb.modaps.eosdis.nasa.gov/callback" /></p>      <p><input type="hidden" name="response_type" id="response_type" value="code" /></p>
-      <p><input type="hidden" name="state" id="state" value="L2FyY2hpdmUvYWxsRGF0YS82L01PRDE2QTIvMjAwOC8wMDkvTU9EMTZBMi5BMjAwODAwOS5oMTF2
-MDQuMDA2LjIwMTcwNTgxMzUzNTUuaGRm
+      <p><input type="hidden" name="state" id="state" value="L2FyY2hpdmUvYWxsRGF0YS82L01PRDE2QTIvMjAwOC8wNDEvTU9EMTZBMi5BMjAwODA0MS5oMTB2
+MDQuMDA2LjIwMTcwNTkwMDAxNTYuaGRm
 " /></p>
       <p><input type="checkbox" name="stay_in" id="stay_in" value="1" checked="checked" /> <label for="stay_in">Stay signed in (this is a private workstation)</label></p>
 
   <p class="button-with-notes">
     <input type="submit" name="commit" value="Log in" class="eui-btn--round eui-btn--green" data-disable-with="Log in" />
-    <a class="eui-btn--round eui-btn--blue" href="/users/new?client_id=A6th7HB-3EBoO7iOCiCLlA&amp;redirect_uri=https%3A%2F%2Fladsweb.modaps.eosdis.nasa.gov%2Fcallback&amp;response_type=code&amp;state=L2FyY2hpdmUvYWxsRGF0YS82L01PRDE2QTIvMjAwOC8wMDkvTU9EMTZBMi5BMjAwODAwOS5oMTF2%0AMDQuMDA2LjIwMTcwNTgxMzUzNTUuaGRm%0A">Register</a>
+    <a class="eui-btn--round eui-btn--blue" href="/users/new?client_id=A6th7HB-3EBoO7iOCiCLlA&amp;redirect_uri=https%3A%2F%2Fladsweb.modaps.eosdis.nasa.gov%2Fcallback&amp;response_type=code&amp;state=L2FyY2hpdmUvYWxsRGF0YS82L01PRDE2QTIvMjAwOC8wNDEvTU9EMTZBMi5BMjAwODA0MS5oMTB2%0AMDQuMDA2LjIwMTcwNTkwMDAxNTYuaGRm%0A">Register</a>
   </p>
   <p class="form-instructions">
     <em class="icon-question-sign"></em>
@@ -116,7 +116,7 @@ MDQuMDA2LjIwMTcwNTgxMzUzNTUuaGRm
 </section>
 <section id="cta">
   <h3>Get single sign-on access to all your favorite EOSDIS sites</h3>
-      <a class="eui-btn--round eui-btn--blue" href="/users/new?client_id=A6th7HB-3EBoO7iOCiCLlA&amp;redirect_uri=https%3A%2F%2Fladsweb.modaps.eosdis.nasa.gov%2Fcallback&amp;response_type=code&amp;state=L2FyY2hpdmUvYWxsRGF0YS82L01PRDE2QTIvMjAwOC8wMDkvTU9EMTZBMi5BMjAwODAwOS5oMTF2%0AMDQuMDA2LjIwMTcwNTgxMzUzNTUuaGRm%0A">Register for a Profile</a>
+      <a class="eui-btn--round eui-btn--blue" href="/users/new?client_id=A6th7HB-3EBoO7iOCiCLlA&amp;redirect_uri=https%3A%2F%2Fladsweb.modaps.eosdis.nasa.gov%2Fcallback&amp;response_type=code&amp;state=L2FyY2hpdmUvYWxsRGF0YS82L01PRDE2QTIvMjAwOC8wNDEvTU9EMTZBMi5BMjAwODA0MS5oMTB2%0AMDQuMDA2LjIwMTcwNTkwMDAxNTYuaGRm%0A">Register for a Profile</a>
 </section>
 <div class="govt-warning eui-info-box">
   <div class="warning-desktop">
@@ -198,7 +198,7 @@ MDQuMDA2LjIwMTcwNTgxMzUzNTUuaGRm
     
   </body>
 </html>
-<script id="f5_cspm">(function(){var f5_cspm={f5_p:'LMNJHNCPDMBAENGMFBLFBHBNFBFHPKBFEPEPIGLPJHGIJOPEPJINMHIDOAONFOCIJMACJCBPNCEBJEBMCPOEGPCAGIFACLPPAALABGPJNKHDHJGFAANEOIHMDCDDLDHH',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,48,(latency>>8));str=f5_cspm.set_byte(str,49,(latency&0xff));str=f5_cspm.set_byte(str,43,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr0106196056aaaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'KOOJMCKCCKHDIOJKNMCPHPDGPJBECPNCHBOEEONAFMJIFJBHBEOHKJKNDKNMDEDOFPCEBNGIKNEBKPIMDEOLFBBFMDMAGMAJAAAAMNBBCHPLKPECAABPKJMOLLIPFNCF',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,48,(latency>>8));str=f5_cspm.set_byte(str,49,(latency&0xff));str=f5_cspm.set_byte(str,43,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr0106196056aaaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
 return;}}
 catch(err){return;}
 setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
